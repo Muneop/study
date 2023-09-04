@@ -1,2 +1,9 @@
 # study
-이것저것 공부한거 올리는 repo
+AI 관련 Study 정보 모아둔 repository
+
+# 목차
+
+### project
+### 
+
+
